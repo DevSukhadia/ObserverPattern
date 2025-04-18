@@ -1,4 +1,4 @@
-import java.util.List;
+package WeatherStation.Interface;
 
 public interface SubjectI {
     void registerObserver(ObserverI observer);
